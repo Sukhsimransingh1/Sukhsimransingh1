@@ -1,37 +1,84 @@
-## Sukhsimran Singh 👋
-B.Tech CSE student focused on Machine Learning, Data Science & production-ready ML systems.
+<h1 align="center">Hi 👋, I'm Sukhsimran Singh</h1>
+<h3 align="center">Data Science Enthusiast | ML Engineer in Progress | Building Real-World AI Projects</h3>
 
-## 🧠 Focus | 🛠️ Tech | 🚀 Learning
-| 🧠 Focus Areas              | 🛠️ Tech Stack   | 🚀 Currently Learning |
-| --------------------------- | ---------------- | --------------------- |
-| Machine Learning & AI       | Python           | Advanced LSTM         |
-| End-to-End ML Pipelines     | NumPy, Pandas    | Model Reliability     |
-| Model Deployment            | Scikit-learn     | Scalable ML Systems   |
-| Real-world Debugging        | Flask, Streamlit | System Design Basics  |
-| Data-driven Decision Making | MySQL            | Deployment Workflows  |
+<p align="center">
+  <a href="https://www.linkedin.com/in/sukhsimran-singh1/">LinkedIn</a> •
+  <a href="https://github.com/Sukhsimransingh1">GitHub</a> •
+  <a href="mailto:your-email@example.com">Email</a>
+</p>
 
-## 📌 Featured Projects
+---
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Building+Real-World+Projects;Python+%7C+ML+%7C+Data+Analytics" />
+</p>
 
-| Project | Description |
-|----------|------------|
-| **End-to-End ML – Student Performance Prediction** | Complete ML lifecycle (data ingestion → preprocessing → training → evaluation → Flask API → deployment on Render). Includes logging, exception handling & modular structure. |
-| **Fake News Detection System** | NLP-based text classification using text preprocessing, TF-IDF/CountVectorizer, and ML models for detecting fake vs real news. Includes model evaluation, confusion matrix, and deployment-ready structure. |
-| **Diabetes Prediction System** | Supervised ML classification model built using medical dataset. Includes EDA, feature scaling, model comparison, performance metrics, and Streamlit-based prediction interface. |
+---
 
-## 🔗 Tools & Ecosystem
-| ML & Data          | Backend   | Dev Tools        | Deployment |
-| ------------------ | --------- | ---------------- | ---------- |
-| Pandas             | Flask     | Git              | Render     |
-| NumPy              | Streamlit | GitHub           |            |
-| Scikit-learn       | MySQL     | VS Code          |            |
-| TensorFlow / Keras |           | Jupyter Notebook |            |
+## 🧠 About Me
 
-## 🎯 Career Direction
--Building production-grade ML systems
--Transitioning toward ML Engineer / Data Scientist roles
--Focused on scalable and reliable AI solutions
+- 🎓 B.Tech CSE Student (Entering 3rd Year)  
+- 📊 Passionate about Data Science & Machine Learning  
+- 🛠️ Building end-to-end ML projects (Data → Model → Deployment)  
+- 🚀 Currently working on real-world projects like:
+  - Weather Prediction System  
+  - House Price Prediction  
+  - Market Entry Analysis (Data-driven project)  
+- 📚 Continuously learning Python, ML, and Data Analysis  
+- 🎯 Goal: Become a skilled Data Scientist & ML Engineer  
 
-## 💡 Philosophy
-Learning by building. Improving by debugging. Growing by consistency.
+---
 
+## ⚙️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,sql,mysql,pandas,numpy,matplotlib,sklearn,streamlit,git,vscode" />
+
+</p>
+
+---
+
+## 🚀 Current Focus
+
+<p align="center">
+
+Machine Learning • Data Analysis • Model Building • Data Visualization • Streamlit Apps • Real-World Projects
+
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sukhsimransingh1&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🏅 Highlights
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data-Science-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine-Learning-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-Projects-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Student-Developer-orange?style=for-the-badge"/>
+</p>
+
+---
+
+## 🏅 Achievements
+
+- 🧠 Built multiple end-to-end ML projects  
+- 🏆 Participant — Tata InnoVent Hackathon  
+- 📊 Completed Data Science Training (Internshala)  
+- 📈 Strong foundation in Python, Data Structures & Core CS  
+
+---
+
+<p align="center">
+
+⚡ <b>I focus on building practical projects that solve real-world problems — not just theory.</b>
+
+</p>
