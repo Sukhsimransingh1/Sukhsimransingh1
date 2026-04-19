@@ -20,11 +20,8 @@
 - 🎓 B.Tech CSE Student (Entering 3rd Year)  
 - 📊 Passionate about Data Science & Machine Learning  
 - 🛠️ Building end-to-end ML projects (Data → Model → Deployment)  
-- 🚀 Currently working on real-world projects like:
-  - Weather Prediction System  
-  - House Price Prediction  
-  - Market Entry Analysis (Data-driven project)  
-- 📚 Continuously learning Python, ML, and Data Analysis  
+- 🚀 Currently working on real-world projects  
+- 📚 Continuously learning Generative AI, Python, ML, and Data Analysis  
 - 🎯 Goal: Become a skilled Data Scientist & ML Engineer  
 
 ---
@@ -43,7 +40,7 @@
 
 <p align="center">
 
-Machine Learning • Data Analysis • Model Building • Data Visualization • Streamlit Apps • Real-World Projects
+Generative AI • Machine Learning • Deep Learning • NLP • Data Analysis • Model Building • Data Visualization  • Real-World Projects
 
 </p>
 
@@ -71,8 +68,8 @@ Machine Learning • Data Analysis • Model Building • Data Visualization •
 ## 🏅 Achievements
 
 - 🧠 Built multiple end-to-end ML projects  
-- 🏆 Participant — Tata InnoVent Hackathon  
-- 📊 Completed Data Science Training (Internshala)  
+- 🏆 Participant — Hack on Hills 7.0 Hackathon NIT Hamirpur  
+- 📊 Completed Data Science Training (Internshala, Udemy)  
 - 📈 Strong foundation in Python, Data Structures & Core CS  
 
 ---
