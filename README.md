@@ -33,7 +33,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,sql,mysql,pandas,numpy,matplotlib,sklearn,streamlit,git,vscode" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,sql,mysql,tensorflow,docker,flask,pandas,numpy,matplotlib,sklearn,streamlit,git,vscode" />
 
 </p>
 
