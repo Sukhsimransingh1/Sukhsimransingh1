@@ -4,7 +4,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sukhsimran-singh1/">LinkedIn</a> •
   <a href="https://github.com/Sukhsimransingh1">GitHub</a> •
-  <a href="mailto:your-email@example.com">Email</a>
+  <a href="mailto:sukhsimransingh304@gmail.com">Email</a> •
+  <a href="https://sukhsimran-singh.lovable.app/">Portfolio</a>
 </p>
 
 ---
