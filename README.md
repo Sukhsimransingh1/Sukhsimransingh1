@@ -18,7 +18,7 @@
 
 ## 🧠 About Me
 
-- 🎓 B.Tech CSE Student (Entering 3rd Year)  
+- 🎓 B.Tech CSE Student (3rd Year)  
 - 📊 Passionate about Data Science & Machine Learning  
 - 🛠️ Building end-to-end ML projects (Data → Model → Deployment)  
 - 🚀 Currently working on real-world projects  
