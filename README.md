@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Building+Real-World+Projects;Python+%7C+ML+%7C+Data+Analytics" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;AI/ML+Engineer;Building+Real-World+Projects;Python+%7C+ML+%7C+Data+Analytics" />
 </p>
 
 ---
