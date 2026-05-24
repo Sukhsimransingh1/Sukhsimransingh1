@@ -6,7 +6,7 @@
   <a href="https://github.com/Sukhsimransingh1">GitHub</a> •
   <a href="mailto:sukhsimransingh304@gmail.com">Email</a> •
   <a href="https://sukhsimran-singh.lovable.app/">Portfolio</a> •
-  <a href="https://drive.google.com/file/d/1E7GsFgM03SHv10YjBC0-z4hPy85oFtSt/view?usp=sharing">Resume</a>
+  <a href="https://drive.google.com/file/d/1TksuO9lYWNTrTIbI8vE1caXfIbXazAPv/view?usp=sharing">Resume</a>
 </p>
 
 ---
