@@ -1,83 +1,113 @@
-<h1 align="center">Hi 👋, I'm Sukhsimran Singh</h1>
-<h3 align="center">Data Science Enthusiast | ML Engineer in Progress | Building Real-World AI Projects</h3>
-
+```{=html}
+<h1 align="center">
+```
+Hi 👋, I'm Sukhsimran Singh
+```{=html}
+</h1>
+```
+```{=html}
+<h3 align="center">
+```
+🚀 AI/ML Engineer \| Data Scientist \| Generative AI Developer
+```{=html}
+</h3>
+```
+```{=html}
 <p align="center">
-  <a href="https://www.linkedin.com/in/sukhsimran-singh1/">LinkedIn</a> •
-  <a href="https://github.com/Sukhsimransingh1">GitHub</a> •
-  <a href="mailto:sukhsimransingh304@gmail.com">Email</a> •
-  <a href="https://sukhsimran-singh.lovable.app/">Portfolio</a> •
-  <a href="https://drive.google.com/file/d/1TksuO9lYWNTrTIbI8vE1caXfIbXazAPv/view?usp=sharing">Resume</a>
+```
+`<a href="https://www.linkedin.com/in/sukhsimran-singh1/">`{=html}LinkedIn`</a>`{=html}
+•
+`<a href="https://github.com/Sukhsimransingh1">`{=html}GitHub`</a>`{=html}
+•
+`<a href="mailto:sukhsimransingh304@gmail.com">`{=html}Email`</a>`{=html}
+•
+`<a href="https://sukhsimran-singh.lovable.app/">`{=html}Portfolio`</a>`{=html}
+```{=html}
 </p>
-
----
-
+```
+```{=html}
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;AI/ML+Engineer;Building+Real-World+Projects;Python+%7C+ML+%7C+Data+Analytics" />
+```
+`<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=AI%2FML+Engineer;Data+Scientist;Generative+AI+Developer;Building+Production-Grade+AI+Applications;Machine+Learning+%7C+LLMs+%7C+RAG+%7C+Python"/>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-## 🧠 About Me
+## 💡 About Me
 
-- 🎓 B.Tech CSE Student (3rd Year)  
-- 📊 Passionate about Data Science & Machine Learning  
-- 🛠️ Building end-to-end ML projects (Data → Model → Deployment)  
-- 🚀 Currently working on real-world projects  
-- 📚 Continuously learning Generative AI, Python, ML, and Data Analysis  
-- 🎯 Goal: Become a skilled Data Scientist & ML Engineer  
+-   🎓 B.Tech CSE Student (CGPA 9.01/10)
+-   🤖 Passionate about AI, ML, Data Science & Generative AI
+-   🚀 Building production-grade ML & RAG applications
+-   🌱 Exploring Agentic AI, LLMs and MLOps
 
----
+------------------------------------------------------------------------
 
-## ⚙️ Tech Stack
+## 🛠️ Tech Stack
 
+```{=html}
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,sql,mysql,tensorflow,docker,flask,pandas,numpy,matplotlib,sklearn,streamlit,git,vscode" />
-
+```
+`<img src="https://skillicons.dev/icons?i=python,c,cpp,postgres,mysql,sqlite,tensorflow,pytorch,docker,fastapi,flask,streamlit,git,vscode"/>`{=html}
+```{=html}
 </p>
-
----
-
-## 🚀 Current Focus
-
+```
+```{=html}
 <p align="center">
-
-Generative AI • Machine Learning • Deep Learning • NLP • Data Analysis • Model Building • Data Visualization  • Real-World Projects
-
+```
+Machine Learning • Deep Learning • NLP • LangChain • RAG • Hugging Face
+• Groq API • SHAP • Pandas • NumPy
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-## 📊 Contribution Graph
+## 🔥 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sukhsimransingh1&theme=tokyo-night&hide_border=true" />
-</p>
+### 🩺 PranRakshak AI
 
----
+-   Real-time sepsis early detection platform
+-   SHAP Explainability
+-   RAG + OCR assistant
+-   FastAPI + React deployment
 
-## 🏅 Highlights
+### 📚 OmniRAG AI
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Data-Science-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Machine-Learning-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Python-Projects-yellow?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Student-Developer-orange?style=for-the-badge"/>
-</p>
+-   Multi-document research assistant
+-   LangChain + ChromaDB + Llama 3
+-   FastAPI + Next.js
 
----
+### 📄 Resume Screening AI
 
-## 🏅 Achievements
+-   Semantic resume matching
+-   BERT embeddings
+-   Skill-gap detection
 
-- 🧠 Built multiple end-to-end ML projects  
-- 🏆 Participant — Hack on Hills 7.0 Hackathon NIT Hamirpur  
-- 📊 Completed Data Science Training (Internshala, Udemy)  
-- 📈 Strong foundation in Python, Data Structures & Core CS  
+### 📈 Customer Churn Prediction
 
----
+-   ANN model with 87.73% accuracy
 
-<p align="center">
+------------------------------------------------------------------------
 
-⚡ <b>I focus on building practical projects that solve real-world problems — not just theory.</b>
+## 📊 GitHub Activity
 
-</p>
+![GitHub Activity
+Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sukhsimransingh1&theme=tokyo-night&hide_border=true)
+
+------------------------------------------------------------------------
+
+## 🌱 Currently Exploring
+
+Agentic AI • Multi-Agent Systems • Advanced RAG • LLM Fine-Tuning •
+MLOps
+
+------------------------------------------------------------------------
+
+## 🤝 Connect
+
+-   💼 LinkedIn: https://www.linkedin.com/in/sukhsimran-singh1/
+-   💻 GitHub: https://github.com/Sukhsimransingh1
+-   🌐 Portfolio: https://sukhsimran-singh.lovable.app/
+-   📧 Email: sukhsimransingh304@gmail.com
