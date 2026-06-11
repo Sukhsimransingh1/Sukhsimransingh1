@@ -99,22 +99,19 @@ An intelligent healthcare platform designed to assist clinicians by predicting s
 Python • Scikit-learn • Streamlit • FastAPI • Pandas
 
 ---
+## 📚 OmniRAG AI — Multi-Document Research Assistant
 
-## 🤖 AI Learning Companion — RAG-Based Conversational Assistant
-
-An intelligent assistant that enables users to interact with uploaded documents using semantic search and Retrieval-Augmented Generation.
+A production-grade Retrieval-Augmented Generation (RAG) system that enables intelligent conversations across multiple uploaded documents.
 
 ### Key Highlights
-
-- Context-aware document conversations
-- Vector embedding based retrieval
-- Semantic search implementation
-- End-to-end RAG pipeline
+📄 Built contextual AI chat over multiple PDFs with isolated retrieval pipelines to prevent cross-document leakage.
+🔍 Implemented hybrid semantic retrieval using ChromaDB and LangChain orchestration.
+💬 Integrated Llama 3 with streaming responses and multi-turn conversation memory.
+⚡ Developed a full-stack architecture with FastAPI backend and Next.js frontend.
 
 **Tech Stack**
 
-LangChain • ChromaDB • Groq API • FastAPI • Streamlit
-
+LangChain • ChromaDB • Llama 3 • FastAPI • Next.js • RAG
 ---
 
 
@@ -143,12 +140,12 @@ LangChain • ChromaDB • Groq API • FastAPI • Streamlit
 
 # 🏆 Achievements
 
-- 🧠 Built multiple production-style AI & Machine Learning applications
-- 🏆 Participant — Hack on Hills 7.0 Hackathon (NIT Hamirpur)
-- 📊 Completed Data Science & Machine Learning Training
-- 🚀 Built end-to-end AI applications with FastAPI & Streamlit
-- 💻 Strong foundation in Python, Machine Learning and Core Computer Science
 
+- 🥇 Top Performer — Data Science Training (Internshala × IITM Pravartak × NSDC)
+- 🏆 Top 15 — Innovate with TRAE, NIT Jalandhar
+- 💻 Participant — Hack on Hills, NIT Hamirpur
+- 🚀 Participant — Hackathon 4.0, GNA University
+- 🤖 Built multiple production-grade AI, ML and Generative AI applications
 ---
 
 # 📜 Certifications
@@ -200,4 +197,4 @@ LangChain • ChromaDB • Groq API • FastAPI • Streamlit
 ⚡ <b>Passionate about building AI-powered products, solving real-world problems, and continuously learning emerging technologies.</b>
 
 </p>
-```
+
