@@ -1,4 +1,4 @@
-```{=html}
+{=html}
 <h1 align="center">
 ```
 Hi 👋, I'm Sukhsimran Singh
@@ -111,3 +111,4 @@ MLOps
 -   💻 GitHub: https://github.com/Sukhsimransingh1
 -   🌐 Portfolio: https://sukhsimran-singh.lovable.app/
 -   📧 Email: sukhsimransingh304@gmail.com
+  
