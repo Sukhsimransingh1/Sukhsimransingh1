@@ -10,7 +10,7 @@
   <a href="https://github.com/Sukhsimransingh1">GitHub</a> •
   <a href="mailto:sukhsimransingh304@gmail.com">Email</a> •
   <a href="https://sukhsimran-singh.lovable.app/">Portfolio</a> •
-  <a href="https://drive.google.com/file/d/1TksuO9lYWNTrTIbI8vE1caXfIbXazAPv/view?usp=sharing">Resume</a>
+  <a href="https://drive.google.com/file/d/1EofLmusoLsCMaUDaNBNQGWaepsdsQkCM/view?usp=sharing">Resume</a>
 </p>
 
 ---
@@ -112,7 +112,7 @@ A production-grade Retrieval-Augmented Generation (RAG) system that enables inte
 **Tech Stack**
 
 LangChain • ChromaDB • Llama 3 • FastAPI • Next.js • RAG
----
+
 
 
 
