@@ -10,7 +10,7 @@
   <a href="https://github.com/Sukhsimransingh1">GitHub</a> •
   <a href="mailto:sukhsimransingh304@gmail.com">Email</a> •
   <a href="https://sukhsimran-singh.lovable.app/">Portfolio</a> •
-  <a href="https://drive.google.com/file/d/1EofLmusoLsCMaUDaNBNQGWaepsdsQkCM/view?usp=sharing">Resume</a>
+  <a href="https://drive.google.com/file/d/1ZR5YIIIl94-IFtNwgJQ_FRTRcINTcSti/view?usp=sharing">Resume</a>
 </p>
 
 ---
