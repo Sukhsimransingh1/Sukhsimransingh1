@@ -18,7 +18,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sukhsimransingh1&color=7C3AED&style=for-the-badge&label=Profile+Views)
+
 
 </div>
 
