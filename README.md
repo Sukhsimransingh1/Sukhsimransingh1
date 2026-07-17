@@ -182,38 +182,6 @@ Built an intelligent resume screening platform using **BERT** and **Sentence Tra
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Sukhsimransingh1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-
-&nbsp;
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukhsimransingh1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Sukhsimransingh1&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=1A56CC&currStreakLabel=58A6FF"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sukhsimransingh1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -243,11 +211,11 @@ Built an intelligent resume screening platform using **BERT** and **Sentence Tra
 
 <div align="center">
 
-[![IITM Pravartak](https://img.shields.io/badge/IITM_Pravartak-Data_Science-8A2BE2?style=for-the-badge&logo=google-scholar&logoColor=white)](YOUR_CERTIFICATE_LINK)
+[![IITM Pravartak](https://img.shields.io/badge/IITM_Pravartak-Data_Science-8A2BE2?style=for-the-badge&logo=google-scholar&logoColor=white)](https://trainings.internshala.com/view_certificate/guafzqhhy0h/fc8yd880q99/)
 
-[![Udemy](https://img.shields.io/badge/Udemy-Data_Science_&_Machine_Learning-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](YOUR_CERTIFICATE_LINK)
+[![Udemy](https://img.shields.io/badge/Udemy-Data_Science_&_Machine_Learning-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://sukhsimransingh1.github.io/certificates/)
 
-[![Udemy](https://img.shields.io/badge/Udemy-Generative_AI_&_LangChain-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](YOUR_CERTIFICATE_LINK)
+[![Udemy](https://img.shields.io/badge/Udemy-Generative_AI_&_LangChain-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-be6628f8-c545-4c70-8973-5d7cef572939/)
 
 </div>
 
