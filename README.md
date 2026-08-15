@@ -10,11 +10,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sukhsimran-singh1)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sukhsimran-singh.lovable.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sukhsimran-portfolio.vercel.app/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sukhsimransingh304@gmail.com)
 
-[![Resume](https://img.shields.io/badge/Resume-1A56CC?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1Zab2FaxI2qEDMvfqY2yijbUjUwyKiFb3/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-1A56CC?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1kfyXFu0iI7eD6achlUbN_nYdNN3a09y1/view?usp=sharing)
 
 <br/>
 
