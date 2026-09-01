@@ -14,7 +14,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sukhsimransingh304@gmail.com)
 
-[![Resume](https://img.shields.io/badge/Resume-1A56CC?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1kfyXFu0iI7eD6achlUbN_nYdNN3a09y1/view?usp=sharing)
+[![Resume](https://drive.google.com/file/d/1Futpf8TzaaKomDISyGQ2WrooaVzNHkVo/view?usp=sharing)
 
 <br/>
 
